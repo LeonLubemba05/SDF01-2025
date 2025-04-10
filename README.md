@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [LeonLubemba]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -66,9 +66,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://github.com/LeonLubemba05/LEOLUB25139/edit/main/README.md)] 
+[![LinkedIn](https://www.linkedin.com/in/leon-lubemba-1b278835a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+📧 Email: [youremail@example.com](leonlubemba@gmail.com)
 
 ---
 
